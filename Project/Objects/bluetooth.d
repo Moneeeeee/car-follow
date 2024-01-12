@@ -3,7 +3,7 @@
 .\objects\bluetooth.o: ..\System\sys.h
 .\objects\bluetooth.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\bluetooth.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\bluetooth.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bluetooth.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\bluetooth.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\bluetooth.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\bluetooth.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\bluetooth.o: ..\System\sys.h
 .\objects\bluetooth.o: ..\Hardware\Encoder.h
 .\objects\bluetooth.o: ..\System\USART.h
-.\objects\bluetooth.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\bluetooth.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\bluetooth.o: ..\System\direction.h
 .\objects\bluetooth.o: ..\Hardware\camera.h
 .\objects\bluetooth.o: ..\Hardware\state.h
 .\objects\bluetooth.o: ..\Hardware\LED.h
 .\objects\bluetooth.o: ..\Hardware\LCD.h
-.\objects\bluetooth.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\bluetooth.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\bluetooth.o: ..\Hardware\OLED.h
 .\objects\bluetooth.o: ..\Hardware\Key.h
 .\objects\bluetooth.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\bluetooth.o: ..\System\VisionAnalys.h
 .\objects\bluetooth.o: ..\Hardware\Menu.h
 .\objects\bluetooth.o: ..\Hardware\Bluetooth.h
-.\objects\bluetooth.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\bluetooth.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\bluetooth.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\bluetooth.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

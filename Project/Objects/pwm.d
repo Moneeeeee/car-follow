@@ -3,7 +3,7 @@
 .\objects\pwm.o: ..\System\sys.h
 .\objects\pwm.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\pwm.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pwm.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\pwm.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\pwm.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\pwm.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\pwm.o: ..\System\sys.h
 .\objects\pwm.o: ..\Hardware\Encoder.h
 .\objects\pwm.o: ..\System\USART.h
-.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\pwm.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\pwm.o: ..\System\direction.h
 .\objects\pwm.o: ..\Hardware\camera.h
 .\objects\pwm.o: ..\Hardware\state.h
 .\objects\pwm.o: ..\Hardware\LED.h
 .\objects\pwm.o: ..\Hardware\LCD.h
-.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\pwm.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\pwm.o: ..\Hardware\OLED.h
 .\objects\pwm.o: ..\Hardware\Key.h
 .\objects\pwm.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\pwm.o: ..\System\VisionAnalys.h
 .\objects\pwm.o: ..\Hardware\Menu.h
 .\objects\pwm.o: ..\Hardware\Bluetooth.h
-.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\pwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\pwm.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\pwm.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

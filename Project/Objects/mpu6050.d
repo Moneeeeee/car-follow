@@ -4,7 +4,7 @@
 .\objects\mpu6050.o: ..\System\sys.h
 .\objects\mpu6050.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\mpu6050.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpu6050.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\mpu6050.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\mpu6050.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\mpu6050.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -41,13 +41,13 @@
 .\objects\mpu6050.o: ..\System\sys.h
 .\objects\mpu6050.o: ..\Hardware\Encoder.h
 .\objects\mpu6050.o: ..\System\USART.h
-.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mpu6050.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\mpu6050.o: ..\System\direction.h
 .\objects\mpu6050.o: ..\Hardware\camera.h
 .\objects\mpu6050.o: ..\Hardware\state.h
 .\objects\mpu6050.o: ..\Hardware\LED.h
 .\objects\mpu6050.o: ..\Hardware\LCD.h
-.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\mpu6050.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\mpu6050.o: ..\Hardware\OLED.h
 .\objects\mpu6050.o: ..\Hardware\Key.h
 .\objects\mpu6050.o: ..\Hardware\EXTI.h
@@ -69,5 +69,5 @@
 .\objects\mpu6050.o: ..\System\VisionAnalys.h
 .\objects\mpu6050.o: ..\Hardware\Menu.h
 .\objects\mpu6050.o: ..\Hardware\Bluetooth.h
-.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\mpu6050.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\mpu6050.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\mpu6050.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

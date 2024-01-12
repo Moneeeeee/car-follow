@@ -3,7 +3,7 @@
 .\objects\delay.o: ..\System\sys.h
 .\objects\delay.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\delay.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\delay.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\delay.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\delay.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\delay.o: ..\Hardware\Encoder.h
 .\objects\delay.o: ..\System\sys.h
 .\objects\delay.o: ..\System\USART.h
-.\objects\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\delay.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\delay.o: ..\System\direction.h
 .\objects\delay.o: ..\Hardware\camera.h
 .\objects\delay.o: ..\Hardware\state.h
 .\objects\delay.o: ..\Hardware\LED.h
 .\objects\delay.o: ..\Hardware\LCD.h
-.\objects\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\delay.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\delay.o: ..\Hardware\OLED.h
 .\objects\delay.o: ..\Hardware\Key.h
 .\objects\delay.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\delay.o: ..\System\VisionAnalys.h
 .\objects\delay.o: ..\Hardware\Menu.h
 .\objects\delay.o: ..\Hardware\Bluetooth.h
-.\objects\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\delay.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\delay.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

@@ -1,9 +1,9 @@
 .\objects\inv_mpu_dmp_motion_driver.o: ..\Hardware\eMPL\inv_mpu_dmp_motion_driver.c
-.\objects\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\objects\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\inv_mpu_dmp_motion_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\inv_mpu_dmp_motion_driver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\inv_mpu_dmp_motion_driver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\inv_mpu_dmp_motion_driver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\inv_mpu_dmp_motion_driver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\inv_mpu_dmp_motion_driver.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\inv_mpu_dmp_motion_driver.o: ..\Hardware\eMPL\inv_mpu.h
 .\objects\inv_mpu_dmp_motion_driver.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\inv_mpu_dmp_motion_driver.o: ..\Libraries\CMSIS\Include\core_cm4.h

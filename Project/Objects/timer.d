@@ -1,7 +1,7 @@
 .\objects\timer.o: ..\Hardware\Timer.c
 .\objects\timer.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\timer.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\timer.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\timer.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\timer.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\timer.o: ..\System\sys.h
 .\objects\timer.o: ..\Hardware\Encoder.h
 .\objects\timer.o: ..\System\USART.h
-.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\timer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\timer.o: ..\System\direction.h
 .\objects\timer.o: ..\Hardware\camera.h
 .\objects\timer.o: ..\Hardware\state.h
 .\objects\timer.o: ..\Hardware\LED.h
 .\objects\timer.o: ..\Hardware\LCD.h
-.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\timer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\timer.o: ..\Hardware\OLED.h
 .\objects\timer.o: ..\Hardware\Key.h
 .\objects\timer.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\timer.o: ..\System\VisionAnalys.h
 .\objects\timer.o: ..\Hardware\Menu.h
 .\objects\timer.o: ..\Hardware\Bluetooth.h
-.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\timer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\timer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

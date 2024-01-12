@@ -3,7 +3,7 @@
 .\objects\oled.o: ..\System\sys.h
 .\objects\oled.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\oled.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\oled.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\oled.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\oled.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\oled.o: ..\System\sys.h
 .\objects\oled.o: ..\Hardware\Encoder.h
 .\objects\oled.o: ..\System\USART.h
-.\objects\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\oled.o: ..\System\direction.h
 .\objects\oled.o: ..\Hardware\camera.h
 .\objects\oled.o: ..\Hardware\state.h
 .\objects\oled.o: ..\Hardware\LED.h
 .\objects\oled.o: ..\Hardware\LCD.h
-.\objects\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\oled.o: ..\Hardware\OLED.h
 .\objects\oled.o: ..\Hardware\Key.h
 .\objects\oled.o: ..\Hardware\EXTI.h
@@ -68,6 +68,6 @@
 .\objects\oled.o: ..\System\VisionAnalys.h
 .\objects\oled.o: ..\Hardware\Menu.h
 .\objects\oled.o: ..\Hardware\Bluetooth.h
-.\objects\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\oled.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\oled.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\oled.o: ..\Hardware\oled_font.h

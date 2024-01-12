@@ -3,7 +3,7 @@
 .\objects\motor.o: ..\System\sys.h
 .\objects\motor.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\motor.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\motor.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\motor.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\motor.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\motor.o: ..\System\sys.h
 .\objects\motor.o: ..\Hardware\Encoder.h
 .\objects\motor.o: ..\System\USART.h
-.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\motor.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\motor.o: ..\System\direction.h
 .\objects\motor.o: ..\Hardware\camera.h
 .\objects\motor.o: ..\Hardware\state.h
 .\objects\motor.o: ..\Hardware\LED.h
 .\objects\motor.o: ..\Hardware\LCD.h
-.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\motor.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\motor.o: ..\Hardware\OLED.h
 .\objects\motor.o: ..\Hardware\Key.h
 .\objects\motor.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\motor.o: ..\System\VisionAnalys.h
 .\objects\motor.o: ..\Hardware\Menu.h
 .\objects\motor.o: ..\Hardware\Bluetooth.h
-.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\motor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\motor.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\motor.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

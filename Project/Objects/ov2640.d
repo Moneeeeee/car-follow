@@ -2,7 +2,7 @@
 .\objects\ov2640.o: ..\System\sys.h
 .\objects\ov2640.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\ov2640.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\ov2640.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ov2640.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\ov2640.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\ov2640.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\ov2640.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -39,13 +39,13 @@
 .\objects\ov2640.o: ..\System\sys.h
 .\objects\ov2640.o: ..\Hardware\Encoder.h
 .\objects\ov2640.o: ..\System\USART.h
-.\objects\ov2640.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ov2640.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\ov2640.o: ..\System\direction.h
 .\objects\ov2640.o: ..\Hardware\camera.h
 .\objects\ov2640.o: ..\Hardware\state.h
 .\objects\ov2640.o: ..\Hardware\LED.h
 .\objects\ov2640.o: ..\Hardware\LCD.h
-.\objects\ov2640.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ov2640.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\ov2640.o: ..\Hardware\OLED.h
 .\objects\ov2640.o: ..\Hardware\Key.h
 .\objects\ov2640.o: ..\Hardware\EXTI.h
@@ -67,6 +67,6 @@
 .\objects\ov2640.o: ..\System\VisionAnalys.h
 .\objects\ov2640.o: ..\Hardware\Menu.h
 .\objects\ov2640.o: ..\Hardware\Bluetooth.h
-.\objects\ov2640.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\ov2640.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\ov2640.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ov2640.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
 .\objects\ov2640.o: ..\Hardware\ov2640cfg.h

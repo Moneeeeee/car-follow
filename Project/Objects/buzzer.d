@@ -3,7 +3,7 @@
 .\objects\buzzer.o: ..\System\sys.h
 .\objects\buzzer.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\buzzer.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\buzzer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\buzzer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\buzzer.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\buzzer.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\buzzer.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -40,13 +40,13 @@
 .\objects\buzzer.o: ..\System\sys.h
 .\objects\buzzer.o: ..\Hardware\Encoder.h
 .\objects\buzzer.o: ..\System\USART.h
-.\objects\buzzer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\buzzer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\buzzer.o: ..\System\direction.h
 .\objects\buzzer.o: ..\Hardware\camera.h
 .\objects\buzzer.o: ..\Hardware\state.h
 .\objects\buzzer.o: ..\Hardware\LED.h
 .\objects\buzzer.o: ..\Hardware\LCD.h
-.\objects\buzzer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\buzzer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\buzzer.o: ..\Hardware\OLED.h
 .\objects\buzzer.o: ..\Hardware\Key.h
 .\objects\buzzer.o: ..\Hardware\EXTI.h
@@ -68,5 +68,5 @@
 .\objects\buzzer.o: ..\System\VisionAnalys.h
 .\objects\buzzer.o: ..\Hardware\Menu.h
 .\objects\buzzer.o: ..\Hardware\Bluetooth.h
-.\objects\buzzer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\buzzer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\buzzer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\buzzer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h

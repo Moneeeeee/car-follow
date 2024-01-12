@@ -2,7 +2,7 @@
 .\objects\sccb.o: ..\System\sys.h
 .\objects\sccb.o: ..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
 .\objects\sccb.o: ..\Libraries\CMSIS\Include\core_cm4.h
-.\objects\sccb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sccb.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\sccb.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
 .\objects\sccb.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
 .\objects\sccb.o: ..\Libraries\CMSIS\Include\core_cmSimd.h
@@ -39,13 +39,13 @@
 .\objects\sccb.o: ..\System\sys.h
 .\objects\sccb.o: ..\Hardware\Encoder.h
 .\objects\sccb.o: ..\System\USART.h
-.\objects\sccb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sccb.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\objects\sccb.o: ..\System\direction.h
 .\objects\sccb.o: ..\Hardware\camera.h
 .\objects\sccb.o: ..\Hardware\state.h
 .\objects\sccb.o: ..\Hardware\LED.h
 .\objects\sccb.o: ..\Hardware\LCD.h
-.\objects\sccb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sccb.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\objects\sccb.o: ..\Hardware\OLED.h
 .\objects\sccb.o: ..\Hardware\Key.h
 .\objects\sccb.o: ..\Hardware\EXTI.h
@@ -67,5 +67,5 @@
 .\objects\sccb.o: ..\System\VisionAnalys.h
 .\objects\sccb.o: ..\Hardware\Menu.h
 .\objects\sccb.o: ..\Hardware\Bluetooth.h
-.\objects\sccb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\sccb.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\sccb.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\sccb.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
